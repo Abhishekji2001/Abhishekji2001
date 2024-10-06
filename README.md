@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhishekji2001
-- 👀 I’m interested in codind
-- 🌱 I’m currently learning python
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 8875009985
 - 😄 Pronouns:A is for absolute,
